@@ -1,2 +1,2 @@
 # hello-world
-Learning the basics of GitHub
+I am a programming ethusiast!
